@@ -1,6 +1,6 @@
 # monmon
 
-monmon runs in the background to notify you of cheap cryptocurrency rates.
+monmon runs in the background to provide price alerts for your desired cryptocurrency.
 It is recommended to add monmon to your start-up programs.
 
 ## How it works
